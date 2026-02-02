@@ -11,3 +11,13 @@
 - Vendor contratcs signed
 - Development phase started
 - Budget Remaining $45,000
+
+
+
+***
+
+
+## Week 3 - January 20, 2026
+- Development phase is completed
+- Vendors are working on logistics
+- Budget Remaining $45,000
